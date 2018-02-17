@@ -1,0 +1,18 @@
+
+h1 {text-align: center; color: black; font-family: Courier, Lucida, Monospace}
+h2 {text-align: center; color: #009999; font-family: Courier, Lucida, Monospace}
+h3 {font-family: Courier, Lucida, Monospace}
+p {font-family: Courier, Lucida, Monospace}
+ul {font-family: Courier, Lucida, Monospace}
+
+.sectionSchool {border: double; border-radius: 15px; line-height: 0.5cm; padding-left: 0.2cm}
+.sectionWork {background-color: #b3ffff; border: double; border-radius: 15px; line-height: 0.5cm; padding-left: 0.2cm}
+.sectionIntern {background-color: #99ffff; border: double; border-radius: 15px; line-height: 0.5cm; padding-left: 0.2cm}
+.sectionLead {background-color: #00cccc; border: double; border-radius: 15px; line-height: 0.3cm; padding-left: 0.2cm}
+
+body {background: #ccffff}
+a:link {color: #009999; text-decoration: none}
+a:visited {color: #00cccc}
+
+
+.center {display: block; margin-left: auto; margin-right: auto; width: 50% }
